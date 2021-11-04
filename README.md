@@ -1,4 +1,7 @@
 ## Todo Laravel + Vue.js Application
+
+An sqlite database is provided with this repo, so no need to run migrations or seeders.
+
 ### Docker run:
 1. Add .env file to project directory.
 2. `docker-compose up`
